@@ -2,6 +2,7 @@
 Automate the process of creating Gmail accounts using Selenium and Chrome WebDriver.
 
 ```
+
 If you find this repository useful or it has helped you,
 please don't forget to leave a ⭐️, or even follow my GitHub account.
 Your support motivates me to continue providing helpful resources.
