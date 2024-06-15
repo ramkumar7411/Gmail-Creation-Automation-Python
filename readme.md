@@ -58,6 +58,7 @@ This script is provided for educational and informational purposes only. The aut
 
 Original script by Abdelhakim Khaouiti ([khaouitiabdelhakim on GitHub](https://github.com/khaouitiabdelhakim))
 
+
 ## License
 This project is licensed under the MIT License 
 
